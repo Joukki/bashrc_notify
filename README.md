@@ -1,7 +1,7 @@
 # bashrc_notify
 - Do you ever execute commands that take a long time to finish?
 - Do you ever start doing something else and forget about the command?
-- Do you ever notice you've spent too long doing something else?
+- Do you ever notice you've spent too long doing something else?  
 Worry not!
 
 ## Notify after execution
